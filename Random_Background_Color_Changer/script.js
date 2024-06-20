@@ -114,5 +114,6 @@ const btn = document.querySelector("#btn");
 //
 //     Remember that you worked with the onclick property in the Role playing game project. Look back at the final solution to see how onclick was properly used.
 //
-//     Once you fix that final bug, the random background color changer will be complete!
+//     Once you fix that finalbug, the random background color changer will be complete!
+
 btn.onclick = changeBackgroundColor;
